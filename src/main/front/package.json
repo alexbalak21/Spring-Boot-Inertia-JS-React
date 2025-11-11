@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@inertiajs/core": "^2.2.15",
+    "@inertiajs/progress": "^0.2.7",
+    "@inertiajs/react": "^2.2.15",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
